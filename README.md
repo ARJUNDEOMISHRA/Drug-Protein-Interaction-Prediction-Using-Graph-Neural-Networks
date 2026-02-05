@@ -1,5 +1,5 @@
 # Drug-Protein-Interaction-Prediction-Using-Graph-Neural-Networks
-# Drug–Protein Interaction Prediction Using Graph Neural Networks
+
 
 ## 📌 Project Overview
 This project focuses on predicting **Drug–Protein Interactions (DPI)** using
